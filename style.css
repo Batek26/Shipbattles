@@ -1,0 +1,11 @@
+.container{
+	display: block;
+	width: 30%;
+	background-color: #DD3719;
+	margin: 20vh auto;
+	text-align: center;
+	color: #FCB150;
+	padding: 20px 20px 30px 20px;
+	font-family: sans-serif;
+	border-radius: 5px;
+}
